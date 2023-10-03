@@ -136,8 +136,8 @@
     },
     "spec": 2,
     "background": {
-        "blur": 34,
-        "url":"https://raw.githubusercontent.com/DarindaDraX/vendetta-themes/main/background.jpg",
+        "blur": 5,
+        "url":"https://raw.githubusercontent.com/DarindaDraX/vendetta-themes/main/background(1).jpg",
         "alpha": 0.9,
         "color": "#0A0A0A"
     },
